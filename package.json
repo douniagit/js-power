@@ -20,5 +20,9 @@
     "gulp-uglify": "^2.0.0",
     "jquery": "^3.1.1",
     "phaser": "^2.6.2"
+  },
+  "devDependencies": {
+    "gulp-image": "^2.7.2",
+    "gulp-sass": "^2.3.2"
   }
 }
